@@ -1,2 +1,2 @@
 # my-first-repo
-Practice account for learningGit
+Practice account for learning Git
